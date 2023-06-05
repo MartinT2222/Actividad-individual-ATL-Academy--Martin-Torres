@@ -1,7 +1,7 @@
 {
   "category": "Programacion",
   "question": "¿Que lenguaje de programacion es mas utilizado?",
-  "options": ["JavaScripts, Python, Java"],
+  "options": ["JavaScripts", "Python", "Java"],
   "answer": 1,
   "explanation": "Python es un lenguaje de programación potente y fácil de aprender. Tiene estructuras de datos de alto nivel eficientes y un simple pero efectivo sistema de programación orientado a objetos. Se caracteriza por ser un lenguaje multiparadigma, multiplataforma y con tipado dinámico."
 }
