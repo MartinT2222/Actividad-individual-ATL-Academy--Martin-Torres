@@ -1,18 +1,18 @@
  {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Politica",
+    "description": "Preguntas relacionadas con politica y otras expresiones politicas."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Salud",
+    "description": "Preguntas relacionadas con diversos temas de salud y eventos de salud."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Programacion",
+    "description": "Preguntas relacionadas con lenguales de programacion."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Educacion",
+    "description": "Preguntas relacionadas con formas de educacion."
   },
   {
     "category": "Historia",
